@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <?php include_once($_SERVER["DOCUMENT_ROOT"] . "/php/head.php"); ?>
+    <title>under construction but it's getting there 👍</title>
+</head>
+<body>
+    <?php include_once($_SERVER["DOCUMENT_ROOT"] . "/php/nav.php"); ?>
+    <h1>not done lmfao<a href="<?php echo $_SERVER["DOCUMENT_ROOT"]; ?>"></a></h1>
+    <p>Doesn't really apply anymore now tho, does it? I'm getting actual stuff done with it now, innit?</p>
+    <p><i>You most likely can't see anything getting updated, but trust me, backend stuff is getting done 👍</i></p>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <p><i>such as redirecting people using old browsers and error pages, both of which also have little to no frontend</i></p>
+    <?php include_once($_SERVER["DOCUMENT_ROOT"] . "/php/body-bottom.php"); ?>
+</body>
+</html>
